@@ -1,3 +1,7 @@
+# [UPDATE]
+
+Imagem docker: https://hub.docker.com/repository/docker/rdrsdr/fake-shop/general
+
 # Fake Shop
 
 
